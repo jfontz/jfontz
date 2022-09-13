@@ -1,1 +1,1 @@
-i love backend programming, but suck at them.
+like backend programming, but suck at it.
