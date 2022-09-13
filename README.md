@@ -1,1 +1,1 @@
-like backend programming, but suck at it.
+likes backend programming, but suck at it.
